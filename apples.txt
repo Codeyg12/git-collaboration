@@ -2,3 +2,4 @@
 - golden delicious
 - honeycrisp
 - pink lady
+- fuji
